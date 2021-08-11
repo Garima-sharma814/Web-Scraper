@@ -1,0 +1,25 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "Web scraper app to scrap the data from reddit about web development ",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Garima-sharma814/Web-Scraper.git"
+  },
+  "author": "Garima Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Garima-sharma814/Web-Scraper/issues"
+  },
+  "homepage": "https://github.com/Garima-sharma814/Web-Scraper#readme",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "eslint": "^7.32.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
