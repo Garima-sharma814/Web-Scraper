@@ -1,2 +1,2 @@
 # Web-Scraper
-Simple Web scraping app to scrap all the presidents (Name and Birthdays) present on wikipedia.
+Simple Web scraping app to scrape all the Indian Presidents (Name and Birthdays) present on Wikipedia.
